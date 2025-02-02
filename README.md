@@ -6,7 +6,7 @@ ________________________________________
 
 PROFILE
 
-Highly motivated and analytical fourth-year Computer Science undergraduate at North South University, eager to contribute to Grameenphone's digital transformation as a Nextern Intern.  Possessing a strong foundation in data analysis, machine learning, and software development, coupled with practical experience in Python and related technologies.  Seeking to apply my skills and enthusiasm for technology to real-world projects and contribute to innovative solutions within the telecommunications industry, aligning with Grameenphone's vision of shaping the digital future.  A quick learner with strong problem-solving and teamwork abilities, ready to embrace the "learning by doing" approach of the Nextern Internship Program.
+Highly motivated and analytical fourth-year Computer Science undergraduate at North South University.Possessing a strong foundation in data analysis, machine learning, and software development, coupled with practical experience in Python and related technologies.  Seeking to apply my skills and enthusiasm for technology to real-world projects and contribute to innovative solutions.  A quick learner with strong problem-solving and teamwork abilities, ready to embrace the "learning by doing" approach.
 
 EDUCATION
 
