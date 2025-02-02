@@ -1,5 +1,5 @@
 Bushra Hossain
-bushrahossainonika@gmail.com                                         +8801977503085
+bushrahossainonika@gmail.com                                       	  +8801977503085
 Adabor-10, Dhaka, Bangladesh                          linkedin.com/in/bushra-hossain-58a98418b
 							github.com/BushraOnika
 ________________________________________
