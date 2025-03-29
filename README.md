@@ -16,7 +16,7 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 ## 🏆 Achievements
 - **Data Analytics Virtual Internship:** 4-month virtual training program on Industrial Practice and Learning Data Analytics, supported by the ICT Division, Govt. of Bangladesh, and provided by MYSOFT LIMITED & eSRD-Lab, Dept. of CSE, BUET (17 Sep 2023 – 15 Dec 2023).
 - **In-Charge NSU-ACM-w, Team Operations (2023-2024):** Led team operations for NSU-ACM-w, coordinating team activities, managing logistical aspects, and contributing to the smooth execution of organizational initiatives.
-- - **In-Charge NSU-ACM Team Promotions (2023):** Managed promotional activities, increasing engagement and visibility for NSU-ACM initiatives.
+- **In-Charge NSU-ACM Team Promotions (2023):** Managed promotional activities, increasing engagement and visibility for NSU-ACM initiatives.
 - **NSU ACM May Day Poster Design:** Created impactful posters using Adobe Illustrator.
 
 ## 💻 Technical Skills
