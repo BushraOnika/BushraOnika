@@ -35,8 +35,9 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 - **Exercism:** https://exercism.org/profiles/BushraOnika
 
 ## 🛠 Other Skills
-- **Problem-solving:** Strong analytical skills demonstrated through competitive coding and academic projects.
-- **Communication & Interpersonal Skills:** Fluent in English (IELTS Band score : 7 (CEFR level: C1)) and Bangla. Proven ability to work effectively in teams.
+- 🧠 **Problem-solving**: Strong analytical skills demonstrated through competitive coding and academic projects.  
+- 💬 **Communication & Interpersonal Skills**: Fluent in English and Bangla. Proven ability to work effectively in teams.  
+- 🌐 **Language Proficiency**: English (IELTS Band Score: **7** | CEFR Level: **C1**) and Bangla (Native).
 
 ## 🎨 Hobbies & Interests
 - 🎨 Designing & Creative Pursuits (handmade crafts, digital design)
