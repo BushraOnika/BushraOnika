@@ -16,11 +16,13 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 ## 🏆 Achievements
 - **Data Analytics Virtual Internship:** 4-month virtual training program on Industrial Practice and Learning Data Analytics, supported by the ICT Division, Govt. of Bangladesh, and provided by MYSOFT LIMITED & eSRD-Lab, Dept. of CSE, BUET (17 Sep 2023 – 15 Dec 2023).
 - **In-Charge NSU-ACM-w, Team Operations (2023-2024):** Led team operations for NSU-ACM-w, coordinating team activities, managing logistical aspects, and contributing to the smooth execution of organizational initiatives.
+- - **In-Charge NSU-ACM Team Promotions (2023):** Managed promotional activities, increasing engagement and visibility for NSU-ACM initiatives.
 - **NSU ACM May Day Poster Design:** Created impactful posters using Adobe Illustrator.
 
 ## 💻 Technical Skills
 - **Programming Languages:** Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
+- - **Game Development:** 🎮 Learning Unity and working on a project
 - **Web Development:** Flask, Blockchain
 - **Software Testing & Automation:** Selenium
 - **Databases:** MySQL
@@ -37,8 +39,9 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 - **Communication & Interpersonal Skills:** Fluent in English (IELTS Band score : 7 (CEFR level: C1)) and Bangla. Proven ability to work effectively in teams.
 
 ## 🎨 Hobbies & Interests
-- Designing & Creative Pursuits (handmade crafts, digital design)
-- Traveling and Cultural Exploration
-- Currently exploring Deep Learning 🚀
+- 🎨 Designing & Creative Pursuits (handmade crafts, digital design)
+- 🌍 Traveling and Cultural Exploration
+- 🚀 Currently exploring Deep Learning
+- 🎮 Learning Game Engine Unity and working on a project
 
 📌 *Feel free to connect with me!*
