@@ -1,8 +1,6 @@
 Bushra Hossain
-bushrahossainonika@gmail.com                                       	  +8801977503085
-Adabor-10, Dhaka, Bangladesh                          linkedin.com/in/bushra-hossain-58a98418b
-							github.com/BushraOnika
-________________________________________
+email: bushrahossainonika@gmail.com                                                                
+linkedin.com/in/bushra-hossain-58a98418b							
 
 PROFILE
 
@@ -12,13 +10,7 @@ EDUCATION
 
 North South University| Dhaka, Bangladesh                                                 June 2020 – July 2024 (Expected Graduation)
 BSC in CSE
-Current Grade: 3.46 out of 4
-Dhaka City College | Dhaka, Bangladesh                                                     June 2017 –July 2019
-Science
-GPA: 4.67 out of 5.00
-Junior Laboratory High School | Dhaka, Bangladesh                                             2017
-Science
-GPA: 5.00 out of 5.00
+Current Grade: 3.45 out of 4
 
 ACHIEVEMENTS
 
