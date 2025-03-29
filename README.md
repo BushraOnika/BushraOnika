@@ -30,9 +30,9 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 - **Operating Systems:** Windows, Linux (Familiarity)
 
 ## ⚡ Competitive Programming
-- **Codeforces:** [https://codeforces.com/profile/BushraOnika](https://codeforces.com/)  
-- **Codewars (Kata-5):** [https://www.codewars.com/users/BushraOnika](https://www.codewars.com/)  
-- **Exercism:** [https://exercism.org/profiles/BushraOnika](https://exercism.org/)  
+- **Codeforces:** https://codeforces.com/profile/BushraOnika
+- **Codewars (Kata-5):** https://www.codewars.com/users/BushraOnika
+- **Exercism:** https://exercism.org/profiles/BushraOnika
 
 ## 🛠 Other Skills
 - **Problem-solving:** Strong analytical skills demonstrated through competitive coding and academic projects.
