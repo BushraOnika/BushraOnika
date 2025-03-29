@@ -1,41 +1,44 @@
-Bushra Hossain
-email: bushrahossainonika@gmail.com                                                                
-linkedin.com/in/bushra-hossain-58a98418b							
+# Bushra Hossain
 
-PROFILE
+## 👩‍💻 About Me
+As a long-time dreamer, I'm finally taking the reins and doing what I love. To achieve this, I am planning my higher studies in a subject that will let me reach my goals. I am a fast learner and can quickly adjust to any situation—a good team player who is always available for her team.
 
-Highly motivated and analytical fourth-year Computer Science undergraduate at North South University.Possessing a strong foundation in data analysis, machine learning, and software development, coupled with practical experience in Python and related technologies.  Seeking to apply my skills and enthusiasm for technology to real-world projects and contribute to innovative solutions.  A quick learner with strong problem-solving and teamwork abilities, ready to embrace the "learning by doing" approach.
+📍 Adabor-10, Dhaka, Bangladesh  
+📧 Email: [bushrahossainonika@gmail.com](mailto:bushrahossainonika@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/bushra-hossain-58a98418b](https://linkedin.com/in/bushra-hossain-58a98418b)  
+🔗 GitHub: [github.com/BushraOnika](https://github.com/BushraOnika)  
 
-EDUCATION
+## 🎓 Education
+**North South University | Dhaka, Bangladesh**  
+📅 June 2020 – July 2024 (Expected Graduation)  
+🎓 **B.Sc. in Computer Science & Engineering** (CGPA: 3.45/4.00)
 
-North South University| Dhaka, Bangladesh                                                 June 2020 – July 2024 (Expected Graduation)
-BSC in CSE
-Current Grade: 3.45 out of 4
+## 🏆 Achievements
+- **Data Analytics Virtual Internship:** 4-month virtual training program on Industrial Practice and Learning Data Analytics, supported by the ICT Division, Govt. of Bangladesh, and provided by MYSOFT LIMITED & eSRD-Lab, Dept. of CSE, BUET (17 Sep 2023 – 15 Dec 2023).
+- **In-Charge NSU-ACM-w, Team Operations (2023-2024):** Led team operations for NSU-ACM-w, coordinating team activities, managing logistical aspects, and contributing to the smooth execution of organizational initiatives.
+- **NSU ACM May Day Poster Design:** Created impactful posters using Adobe Illustrator.
 
-ACHIEVEMENTS
+## 💻 Technical Skills
+- **Programming Languages:** Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
+- **Web Development:** Flask, Blockchain
+- **Software Testing & Automation:** Selenium
+- **Databases:** MySQL
+- **Tools & Office Suite:** Adobe Illustrator, Canva, Word, Excel, PowerPoint (Proficient), Git
+- **Operating Systems:** Windows, Linux (Familiarity)
 
-* Data Analytics Virtual Internship: Completed a comprehensive 4-month virtual training program on Industrial Practice and Learning Data Analytics, supported by the ICT Division, Govt. of Bangladesh and provided by MYSOFT LIMITED & eSRD-Lab, Dept. of CSE, BUET (17 Sep 2023 - 15 Dec 2023), gaining practical experience in data analysis techniques and tools.
-* NSU ACM May Day Poster Design: Created a visually impactful May Day poster for NSU ACM, which significantly enhanced brand visibility and boosted social media engagement. Demonstrated creative design skills and ability to communicate effectively through visual media.
-* In-Charge of Team Operations, NSU-ACM-w (2023-2024): Led team operations for NSU-ACM-w, coordinating team activities, managing logistical aspects, and contributing to the smooth execution of organizational initiatives. Developed organizational and leadership skills in a collaborative environment.
+## ⚡ Competitive Programming
+- **Codeforces:** [https://codeforces.com/profile/BushraOnika](https://codeforces.com/)  
+- **Codewars (Kata-5):** [https://www.codewars.com/users/BushraOnika](https://www.codewars.com/)  
+- **Exercism:** [https://exercism.org/profiles/BushraOnika](https://exercism.org/)  
 
-TECHNICAL SKILLS
+## 🛠 Other Skills
+- **Problem-solving:** Strong analytical skills demonstrated through competitive coding and academic projects.
+- **Communication & Interpersonal Skills:** Fluent in English (IELTS Band score : 7 (CEFR level: C1)) and Bangla. Proven ability to work effectively in teams.
 
-* Programming Languages: Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS
-* Data Science & Machine Learning: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Data Visualization
-* Web Development: Flask
-* Software Testing & Automation: Selenium
-* Databases: MySQL
-* Design Tools: Adobe Illustrator, Canva
-* Operating Systems: Linux (Familiarity)
-* Microsoft Office Suite: Word, Excel, PowerPoint (Proficient)
+## 🎨 Hobbies & Interests
+- Designing & Creative Pursuits (handmade crafts, digital design)
+- Traveling and Cultural Exploration
+- Currently exploring Deep Learning 🚀
 
-OTHER SKILLS
-
-* Problem-solving & Analytical Skills: Strong critical thinking and analytical abilities, demonstrated through academic projects and data analysis experience.
-* Communication & Interpersonal Skills: Excellent written and oral communication skills in English and Bangla. Proven ability to work effectively in teams.
-* Digitalization & Tech Familiarity: Eager to learn and apply digital technologies in the telecommunications context and contribute to innovative solutions.
-
-HOBBIES & INTERESTS
-
-* Designing & Creative Pursuits (Illustrator, Canva, handmade crafts)
-* Traveling and Cultural Exploration
+📌 *Feel free to connect with me!*
