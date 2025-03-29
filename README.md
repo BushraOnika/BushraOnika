@@ -22,7 +22,7 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 ## 💻 Technical Skills
 - **Programming Languages:** Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
-- - **Game Development:** 🎮 Learning Unity and working on a project
+- **Game Development:** 🎮 Learning Unity and working on a project
 - **Web Development:** Flask, Blockchain
 - **Software Testing & Automation:** Selenium
 - **Databases:** MySQL
