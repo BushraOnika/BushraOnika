@@ -10,7 +10,7 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 
 ## 🎓 Education
 **North South University | Dhaka, Bangladesh**  
-📅 June 2020 – July 2024 (Expected Graduation)  
+📅 June 2020 – July 2024 
 🎓 **B.Sc. in Computer Science & Engineering** (CGPA: 3.45/4.00)
 
 ## 🏆 Achievements
