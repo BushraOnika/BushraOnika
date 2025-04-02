@@ -20,9 +20,9 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 - **NSU ACM May Day Poster Design:** Created impactful posters using Adobe Illustrator.
 
 ## 💻 Technical Skills
-- **Programming Languages:** Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS
+- **Programming Languages:** Python (Proficient), Java, C, C++, SQL, JavaScript, HTML, CSS, C#
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
-- **Game Development:** 🎮 Learning Unity and working on a project
+- **Game Development:** Unity and C#
 - **Web Development:** Flask, Blockchain
 - **Software Testing & Automation:** Selenium
 - **Databases:** MySQL
@@ -43,6 +43,6 @@ As a long-time dreamer, I'm finally taking the reins and doing what I love. To a
 - 🎨 Designing & Creative Pursuits (handmade crafts, digital design)
 - 🌍 Traveling and Cultural Exploration
 - 🚀 Currently exploring Deep Learning
-- 🎮 Learning Game Engine Unity and working on a project
+- 🎮 Learning Game Engine Unity
 
 📌 *Feel free to connect with me!*
